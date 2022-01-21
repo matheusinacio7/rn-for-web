@@ -1,0 +1,12 @@
+{
+  "name": "rn-for-web",
+  "displayName": "rn-for-web",
+  "expo": {
+    "name": "rn-for-web",
+    "slug": "rn-for-web",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
