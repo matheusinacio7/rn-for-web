@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "rn-for-web",
+  "short_name": "rn-for-web",
+  "start_url": "/?utm_source=web_app_manifest"
+}

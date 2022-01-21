@@ -1,0 +1,19 @@
+{
+  "files": {
+    "app.js": "/rn-native-web/static/js/app.d61a767a.chunk.js",
+    "app.js.map": "/rn-native-web/static/js/app.d61a767a.chunk.js.map",
+    "runtime~app.js": "/rn-native-web/static/js/runtime~app.81438579.js",
+    "runtime~app.js.map": "/rn-native-web/static/js/runtime~app.81438579.js.map",
+    "static/js/2.fac48639.chunk.js": "/rn-native-web/static/js/2.fac48639.chunk.js",
+    "static/js/2.fac48639.chunk.js.map": "/rn-native-web/static/js/2.fac48639.chunk.js.map",
+    "index.html": "/rn-native-web/index.html",
+    "manifest.json": "/rn-native-web/manifest.json",
+    "serve.json": "/rn-native-web/serve.json",
+    "static/js/2.fac48639.chunk.js.LICENSE.txt": "/rn-native-web/static/js/2.fac48639.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.81438579.js",
+    "static/js/2.fac48639.chunk.js",
+    "static/js/app.d61a767a.chunk.js"
+  ]
+}
